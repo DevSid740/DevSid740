@@ -16,3 +16,4 @@ CS Student • Python Developer • Web Developer 🤖<br>Building with Python, 
 [![](https://komarev.com/ghpvc/?username=DevSid740&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+< img src ="https://komarev.com/ghpvc/?username=DevSid740&label=Views&style=for-the-badge&color=0A66C2&" alt="Views" / >
