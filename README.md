@@ -16,7 +16,7 @@ CS Student • Python Developer • Web Developer 🤖<br>Building with Python, 
 
 <p align="center">
   <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codepiyusss/DevSid740/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevSid740/DevSid740/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevSid740/DevSid740/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevSid740/DevSid740/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
   </picture>
