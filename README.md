@@ -11,7 +11,7 @@ CS Student • Python Developer • Web Developer 🤖<br>Building with Python, 
 
 
 <p> 
-<img src ="https://komarev.com/ghpvc/?username=DevSid740&label=Views&style=for-the-badge&color=0A66C2" alt="Views"/ >
+<img src ="https://komarev.com/ghpvc/?username=DevSid740&label=Views&style=for-the-badge&color=0A66C2&base=1000" alt="Views"/ >
 </p>
 
 <p align="center">
